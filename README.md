@@ -2,4 +2,4 @@
 Cisco Course: Introduction to Cybersecurity
 - These are the introductory files and links for interest
 
-## Ideas
+## Future Ideas and Changes
