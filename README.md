@@ -21,6 +21,12 @@ alt="Learn Cybersecurity with Cisco Academy 2018" width="240" height="180" borde
 ### Cisco Academy Courses and Links
 List of all Courses: https://www.netacad.com/courses/security/
 
+Introduction to Cybersecurity: https://www.netacad.com/courses/intro-cybersecurity/
+
+Cybersecurity Essentials: https://www.netacad.com/courses/cybersecurity-ess/
+
+CCNA Cybersecurity Operations: https://www.netacad.com/courses/ccna-cyber-ops/
+
 ## Optional Activities
 1. Google Search: Cyber Security Starts at Home
 2. Read Time Magazine's Special Edition
