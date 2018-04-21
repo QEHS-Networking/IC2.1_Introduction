@@ -14,9 +14,9 @@ Cisco Course: Introduction to Cybersecurity
 ### Youtube Introduction Video
 View the Youtube Video: 
 
-<a href="https://www.youtube.com/watch?time_continue=0&v=ThVe4xvNZwI" target="_blank">
-<img src="http://img.youtube.com/vi/ThVe4xvNZwI/0.jpg" 
-alt="Cyber Defence Security Promo Video 2018" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=ijy4AibHEl4" target="_blank">
+<img src="http://img.youtube.com/vi/ijy4AibHEl4/0.jpg" 
+alt="Learn Cybersecurity with Cisco Academy 2018" width="240" height="180" border="10" /></a>
 
 ### Cisco Academy Courses and Links
 List of all Courses: https://www.netacad.com/courses/security/
