@@ -34,3 +34,6 @@ CCNA Cybersecurity Operations: https://www.netacad.com/courses/ccna-cyber-ops/
    - Additional Section: How to Protect Yourself
    
 ## Future Ideas and Changes
+### This list is in progress
+1. Create Google Searches for Time Magazine
+2. Create a PDF of Time Magazine
