@@ -37,3 +37,15 @@ CCNA Cybersecurity Operations: https://www.netacad.com/courses/ccna-cyber-ops/
 ### This list is in progress
 1. Create Google Searches for Time Magazine
 2. Create a PDF of Time Magazine
+
+### Summary of Time's Special Edition
+Title: Cybersecurity: Hacking, the Dark Web and You, 
+February or March of 2018
+
+Focus of Articles is information of computers, public and private
+
+Pg 31: Comment about personal information;
+"...all hackers have the same power over you: to humiliate you."
+
+Pg 31: Comment about public and private information, expecially when information is take out of context and used in conjuction with other information that suggests negative connotations;
+"combination of fabrication and fact, deniability and distrust, [is called] hybrid warfar".
