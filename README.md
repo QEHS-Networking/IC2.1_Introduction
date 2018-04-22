@@ -42,6 +42,8 @@ CCNA Cybersecurity Operations: https://www.netacad.com/courses/ccna-cyber-ops/
 ### This list is in progress
 1. Create Google Searches for Time Magazine
 2. Create a PDF of Time Magazine
+3. Using PowerPoint summaries to guide unit ending exams
+4. Using online materials to begin vocabulary lists and Google Searches
 
 ### Summary of Time's Special Edition
 Title: Cybersecurity: Hacking, the Dark Web and You, 
