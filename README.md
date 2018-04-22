@@ -27,6 +27,11 @@ Cybersecurity Essentials: https://www.netacad.com/courses/cybersecurity-ess/
 
 CCNA Cybersecurity Operations: https://www.netacad.com/courses/ccna-cyber-ops/
 
+## What to See First
+- Review above Materials
+- Review Modules / First Time in the Course
+- Review Stduent Resources
+
 ## Optional Activities
 1. Google Search: Cyber Security Starts at Home
 2. Read Time Magazine's Special Edition
