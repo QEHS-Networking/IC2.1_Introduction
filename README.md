@@ -30,7 +30,7 @@ CCNA Cybersecurity Operations: https://www.netacad.com/courses/ccna-cyber-ops/
 ## What to See First
 - Review above Materials
 - Review Modules / First Time in the Course
-- Review Stduent Resources
+- Review Student Resources
 
 ## Optional Activities
 1. Google Search: Cyber Security Starts at Home
